@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MewbMC</h1>
 <h3 align="center">A Professional & Hobby MC Dev</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mewbmc" alt="mewbmc" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alphanecron" alt="alphanecron" /></a> </p>
 
 - 🌱 I’m currently learning **TypeScript**
 
