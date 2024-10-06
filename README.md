@@ -2,7 +2,8 @@
 <h3 align="center">A Professional & Hobby MC Dev</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alphanecron" alt="alphanecron" /></a> </p>
-![mewbmc's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mworzala&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
+
+![mworzala's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mworzala&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
 
 - 🌱 I’m currently learning **TypeScript**
 
